@@ -38,6 +38,10 @@ body {
     align-items: center;
     padding: 40px 0 0;
 }
+.logo-nuevo{
+    width: 350px;
+    height:250px;
+}
 
 /* Sección de entrada */
 .input-section {
